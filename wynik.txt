@@ -1,0 +1,64 @@
+generacja 1, dlugosc 39
+B C A D B 
+generacja 2, dlugosc 39
+B C A D B 
+generacja 3, dlugosc 39
+A D B C A 
+generacja 4, dlugosc 39
+A D B C A 
+generacja 5, dlugosc 39
+C A D B C 
+generacja 6, dlugosc 39
+D B C A D 
+generacja 7, dlugosc 39
+B C A D B 
+generacja 8, dlugosc 39
+A D B C A 
+generacja 9, dlugosc 39
+B C A D B 
+generacja 10, dlugosc 39
+B C A D B 
+generacja 11, dlugosc 39
+D B C A D 
+generacja 12, dlugosc 39
+A D B C A 
+generacja 13, dlugosc 39
+D B C A D 
+generacja 14, dlugosc 39
+B C A D B 
+generacja 15, dlugosc 39
+B C A D B 
+generacja 16, dlugosc 39
+B C A D B 
+generacja 17, dlugosc 39
+A D B C A 
+generacja 18, dlugosc 39
+A D B C A 
+generacja 19, dlugosc 39
+C A D B C 
+generacja 20, dlugosc 39
+C A D B C 
+generacja 21, dlugosc 39
+A D B C A 
+generacja 22, dlugosc 39
+B C A D B 
+generacja 23, dlugosc 39
+D B C A D 
+generacja 24, dlugosc 39
+D B C A D 
+generacja 25, dlugosc 39
+B C A D B 
+generacja 26, dlugosc 39
+B C A D B 
+generacja 27, dlugosc 39
+A D B C A 
+generacja 28, dlugosc 39
+D B C A D 
+generacja 29, dlugosc 39
+D B C A D 
+generacja 30, dlugosc 39
+A D B C A 
+generacja 31, dlugosc 39
+D B C A D 
+generacja 32, dlugosc 39
+D B C A D 
